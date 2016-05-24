@@ -1,0 +1,10 @@
+{
+  "name": "phonecatapp",
+  "description": "details of the latest mobiles",
+  "main": "index.js",
+  "authors": [
+    "Tejaswi Ramisetty"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
